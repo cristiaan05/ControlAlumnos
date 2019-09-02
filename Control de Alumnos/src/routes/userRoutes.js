@@ -10,7 +10,7 @@ api.post('/registrar',UserController.registrar);
 api.post('/login',UserController.login);
 
 
-//Exportar
+//Exportar ruta
 module.exports=api;
 
 
